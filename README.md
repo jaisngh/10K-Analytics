@@ -24,4 +24,5 @@ A Textual Analysis is then done on the tokenized cleaned text to calculate 8 var
 Note: 'Positive' and 'negative' words are sourced from the Loughran-McDonald Master Dictionary, available here: https://sraf.nd.edu/textual-analysis/resources/#Master%20Dictionary
 
 ## External Libraries and Resources
-External packages and libraries used for scraping and analysis are *Pandas*, *nltk*, and *BeautifulSoup*
+External packages and libraries used for scraping and analysis are *Pandas*, *nltk*, and *BeautifulSoup* <br>
+Source for regex expressions: https://towardsdatascience.com/using-regular-expressions-to-search-sec-10k-filings-b5493a42c784 
