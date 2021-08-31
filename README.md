@@ -1,6 +1,6 @@
 # 10K-Analytics
 ## Scraping and Textual Analysis of 10K Form Filings
-A script for scraping and conducting textual analysis on the "Management's Discussion and Analysis" section of SEC Form 10K filings
+A script for scraping and conducting textual and sentiment analysis on the "Management's Discussion and Analysis" section of SEC Form 10K filings
 **run with *Main.py***<br>
 The final analysis is output as csv file in the working directory as ***sec_edgar_completed_analysis.csv***<br>
 To add a filing to be analyzed, add the company name under 'Company' and the link to the relevant 10k filing  <br> (can be found at https://www.sec.gov/edgar/search/) under 'Filings URL' to ***sec_src.csv***
